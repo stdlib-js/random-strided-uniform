@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/array-base-assert-is-accessor-array": "^0.2.3",
-    "@stdlib/random-base-uniform": "^0.2.2",
+    "@stdlib/random-base-uniform": "^0.2.3",
     "@stdlib/strided-base-binary": "^0.3.1",
     "@stdlib/strided-base-nullary": "^0.3.1",
     "@stdlib/types": "^0.4.3",
@@ -46,10 +46,10 @@
   },
   "devDependencies": {
     "@stdlib/array-base-linspace": "^0.2.3",
-    "@stdlib/array-base-to-accessor-array": "^0.2.2",
-    "@stdlib/array-base-zero-to": "^0.2.1",
-    "@stdlib/array-filled": "^0.3.0",
-    "@stdlib/array-filled-by": "^0.3.0",
+    "@stdlib/array-base-to-accessor-array": "^0.2.3",
+    "@stdlib/array-base-zero-to": "^0.2.2",
+    "@stdlib/array-filled": "^0.3.1",
+    "@stdlib/array-filled-by": "^0.3.1",
     "@stdlib/array-float64": "^0.2.3",
     "@stdlib/array-zeros": "^0.2.3",
     "@stdlib/console-log-each": "^0.2.4",
