@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-28)
+## Unreleased (2026-07-06)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`bce3f55`](https://github.com/stdlib-js/stdlib/commit/bce3f55d4c882af77d2401d8622d818369421c39) - **docs:** update related packages sections [(#13313)](https://github.com/stdlib-js/stdlib/pull/13313) _(by stdlib-bot)_
 -   [`b808ef2`](https://github.com/stdlib-js/stdlib/commit/b808ef25c4897fc1aa8dc32fde278de851bf3430) - **bench:** refactor to use string interpolation in `@stdlib/random-strided` [(#11426)](https://github.com/stdlib-js/stdlib/pull/11426) _(by Karan Anand)_
 
 </details>
